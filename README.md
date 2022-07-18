@@ -8,7 +8,7 @@ Tasks of the day created -
 ![Todo_list1](https://user-images.githubusercontent.com/61042120/179548908-61bc10bf-e49f-40fd-99cc-b1769d498eb6.png)
 
 Editing the created tasks on clicking edit button to make changes - 
-![Todo_list2](https://user-images.githubusercontent.com/61042120/179548920-d5d48d93-a732-429e-989d-042d5c187900.png)
+![Todo_list2](https://user-images.githubusercontent.com/61042120/179552790-a8f17067-9d83-480e-b868-216b74dc7f18.png)
 
 Saving the edited task on clicking saving button - 
 ![Todo_list3](https://user-images.githubusercontent.com/61042120/179548928-23665db2-d154-4b84-89e3-b6b2d6860d55.png)
