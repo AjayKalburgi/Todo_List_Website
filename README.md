@@ -14,4 +14,4 @@ Saving the edited task on clicking saving button -
 ![Todo_list3](https://user-images.githubusercontent.com/61042120/179548928-23665db2-d154-4b84-89e3-b6b2d6860d55.png)
 
 Deleting the completed task / canceled task by clicking delete button- 
-![Todo_list4](https://user-images.githubusercontent.com/61042120/179551076-a95b281b-2c5d-4464-b47c-098099bb450d.png)
+![Todo_list4](https://user-images.githubusercontent.com/61042120/179553371-7680f725-b818-4013-a0d9-723e108e268a.png)
