@@ -1,7 +1,7 @@
 # Todo_List_Website
 I tried to make a Tasks Of The Day website. 
 I have made use HTML, CSS, JS to build this website.
-In this website we can write the tasks of the day, were it has functions like written tasks can be edited & save, and the completed tasks can be deleted.
+In this website we can write the tasks of the day, were it has functions like written tasks can be edited & saved, and the completed tasks can be deleted.
 I have deployed using Netlify - the link - https://fluffy-trifle-2000fb.netlify.app/
 
 Tasks of the day created - 
